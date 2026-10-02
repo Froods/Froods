@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Frederik 👋
 
-<!--
-**Froods/Froods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Technology student at Aarhus University (B.Eng., expected January 2029).
+I like building things end to end, from embedded hardware to full-stack web apps with AI.
 
-Here are some ideas to get you started:
+### 🔨 Projects
+- **[Inkspired AI](https://inkspired-ai.com)**: AI web app that turns prompts into tattoo stencils. React + TypeScript, Python, SQL and custom-trained LoRA models.
+- **[iSOUS](https://github.com/Froods/iSOUS)**: Smart shading and ventilation system controlling windows and blinds based on temperature and CO₂. Embedded C++ on Arduino with a Python GUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech
+C · C++ · Python · TypeScript · JavaScript · React · SQL · HTML/CSS
+
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/frederik-reichle) · Open to internships for fall 2027
