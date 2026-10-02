@@ -11,4 +11,4 @@ I like building things end to end, from embedded hardware to full-stack web apps
 C · C++ · Python · TypeScript · JavaScript · React · SQL · HTML/CSS
 
 ### 📫 Contact
-[LinkedIn](https://linkedin.com/in/frederik-reichle) · Open to internships for fall 2027
+[LinkedIn](https://linkedin.com/in/frederik-reichle) · Open to internships from summer 2027
